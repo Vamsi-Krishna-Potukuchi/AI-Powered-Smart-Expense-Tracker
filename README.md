@@ -33,7 +33,6 @@ Smart Expense Tracker is a full-stack web application built using the MERN Stack
 ```text
 Frontend/
 Backend/
-Database/
 ```
 
 ## Future Enhancements
