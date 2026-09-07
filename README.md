@@ -81,7 +81,6 @@ How much did I spend this month?
 What are my major spending patterns?
 
 ## Future Enhancements
-Future Enhancements
 - Automatic Transaction Detection: Extract transaction details such as amount, merchant, date, and transaction type from bank SMS notifications or uploaded bank statements to reduce manual data entry.
 - Smart Transaction Categorization: Automatically classify transactions into categories such as food, travel, shopping, bills, and entertainment using AI-based text analysis.
 - Bank and Payment Account Integration: Integrate with supported banking or payment services to securely synchronize financial transactions in real time.
