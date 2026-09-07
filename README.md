@@ -82,12 +82,12 @@ What are my major spending patterns?
 
 ## Future Enhancements
 Future Enhancements
-Automatic Transaction Detection: Extract transaction details such as amount, merchant, date, and transaction type from bank SMS notifications or uploaded bank statements to reduce manual data entry.
-Smart Transaction Categorization: Automatically classify transactions into categories such as food, travel, shopping, bills, and entertainment using AI-based text analysis.
-Bank and Payment Account Integration: Integrate with supported banking or payment services to securely synchronize financial transactions in real time.
-Monthly Budget Planning: Allow users to set category-wise budgets, track spending limits, and receive alerts when expenses approach or exceed a budget.
-AI-Powered Financial Forecasting: Analyze historical spending patterns to estimate future expenses, predict monthly savings, and identify potential overspending.
-Personalized Financial Recommendations: Provide AI-generated suggestions for reducing unnecessary expenses, improving savings, and achieving financial goals.
-Automated Reports and Notifications: Generate periodic financial reports and send reminders or alerts for recurring payments, unusual transactions, and budget limits.
-Secure Data Import and Export: Support importing transactions from CSV or bank statements and exporting financial reports in PDF or Excel format.
+- Automatic Transaction Detection: Extract transaction details such as amount, merchant, date, and transaction type from bank SMS notifications or uploaded bank statements to reduce manual data entry.
+- Smart Transaction Categorization: Automatically classify transactions into categories such as food, travel, shopping, bills, and entertainment using AI-based text analysis.
+- Bank and Payment Account Integration: Integrate with supported banking or payment services to securely synchronize financial transactions in real time.
+- Monthly Budget Planning: Allow users to set category-wise budgets, track spending limits, and receive alerts when expenses approach or exceed a budget.
+- AI-Powered Financial Forecasting: Analyze historical spending patterns to estimate future expenses, predict monthly savings, and identify potential overspending.
+- Personalized Financial Recommendations: Provide AI-generated suggestions for reducing unnecessary expenses, improving savings, and achieving financial goals.
+- Automated Reports and Notifications: Generate periodic financial reports and send reminders or alerts for recurring payments, unusual transactions, and budget limits.
+- Secure Data Import and Export: Support importing transactions from CSV or bank statements and exporting financial reports in PDF or Excel format.
 
